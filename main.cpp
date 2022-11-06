@@ -36,7 +36,7 @@ int main()
     ConverterJSON::getInstance()->readConfigFile();
     ConverterJSON::getInstance()->readRequestFile();
     std::vector<std::string> documents = ConverterJSON::getInstance()->getTextDocuments();
-    auto* invertedIndex = new InvertedIndex();
+    auto invertedIndex = new InvertedIndex();
     invertedIndex->updateDocumentBase(documents);
 
     //Search:
