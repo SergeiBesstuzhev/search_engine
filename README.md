@@ -1,6 +1,6 @@
 ![# Search-in-files](search_engine.jpg)<br>
 ![GitHub author](https://img.shields.io/badge/made_by-SergeiBesstuzhev-blue)
-![GitHub repo size](https://img.shields.io/github/repo-size/SergeiBesstuzhev/-search_engine-blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/SergeiBesstuzhev/search_engine)
 ![GitHub author](https://img.shields.io/badge/made_on-C++-blue)
 <br><i> Search for words in files</i> | <i> Поиск слов в файлах.</i>
 
